@@ -49,7 +49,3 @@ I am actively seeking roles as a Machine Learning Engineer, driven by my passion
 💬 Let's Connect!
 
 Feel free to reach out to me for collaboration, networking, or discussions on machine learning and data science. I'm always open to new opportunities and connections.
-
----
-
-Feel free to personalize the LinkedIn, GitHub, and email sections with your specific details. Good luck with your GitHub profile post!
