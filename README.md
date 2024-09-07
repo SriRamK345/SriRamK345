@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Sri Ram K!
 
-I am a dedicated Machine Learning Engineer with a background in non-IT fields, bringing 3.6 years of professional experience. Transitioning into the exciting realm of Machine Learning, I'm enthusiastic about applying my skills to solve real-world challenges and contribute to innovative projects.
+I am a dedicated Data Analyst with a background in non-IT fields, bringing 3.4 years of professional experience. Transitioning into the exciting realm of Machine Learning, I'm enthusiastic about applying my skills to solve real-world challenges and contribute to innovative projects.
 
 🌟 About Me
 
