@@ -2,40 +2,44 @@
 
 👋 Hello, I'm Sri Ram K!
 
-I am a dedicated Data Analyst with a background in non-IT fields, bringing 3.4 years of professional experience. Transitioning into the exciting realm of Machine Learning, I'm enthusiastic about applying my skills to solve real-world challenges and contribute to innovative projects.
+Proactive Data Scientist with expertise in statistical analysis, machine learning, and data visualization. Leveraging 2 years of
+experience in the IT sector, skilled in Python, SQL, and advanced visualization tools to convert complex data into actionable insights. Eager to apply analytical skills and technical experience to solve real-world problems and support data-driven decisionmaking.
 
 🌟 About Me
 
 Name: Sri Ram K  
-Role: Machine Learning Engineer  
-Experience: 3.6 years in non-IT domains  
+Role: Data Scientist  
+Experience: 3.4 Years
 Location: Tamil Nadu, India  
 
 🔧 Skills
 
-Programming Languages: Python  
-Machine Learning: Linear Regression, Logistic Regression  
-Tools & Frameworks: Pandas, Scikit-learn, Jupyter Notebooks  
-Data Analysis: Retail Sales Analysis  
+**Programming Languages:** Python, My SQL 
+**Machine Learning:** Linear Regression, Logistic Regression  
+**Tools & Frameworks:** Pandas, Scikit-learn, Jupyter Notebooks 
 
 📚 Projects
 
-1. **Machine Learning Framework and Application Notes**
-
-   Developed a comprehensive framework to understand and apply various machine learning techniques, accompanied by detailed application notes and examples.
-
-2. **Machine Learning Algorithms From Scratch**
-
-   Implemented core machine learning algorithms in Python, focusing on educational clarity, with detailed explanations, Python code, and practical examples in Jupyter notebooks.
-
-3. **Table Classification From Financial Statements**
-
-   Applied machine learning techniques and advanced feature engineering to classify tables from financial statements into categories like Income Statements, Balance Sheets, Cash Flows, Notes, and Others.
-
-4. **Retail and Warehouse Sales Analysis**
-
-   Conducted in-depth analysis of retail and warehouse sales data for alcoholic beverages from January 2017 to September 2020, aiming to uncover sales patterns, supplier performance trends, and optimize distribution strategies.
-
+1. **Student Performance Analysis, Key Skills: Data Preprocessing, Modeling, Evaluation**
+- Predictive Modeling: Developed machine learning models to predict student performance, achieving high R2 score using algorithms like 
+  Linear Regression model and ExtraTreesRegressor.
+- Feature Engineering & Data Analysis: Performed feature engineering and preprocessing to encode variables and create key features, 
+  enhancing model performance and achieving a high R² score.
+- Visualization & Reporting: Utilized Matplotlib and Seaborn to visualize student performance trends. Created interactive dashboards using 
+  Power BI to present actionable insights and facilitate data-driven decision-making through comprehensive reports.
+2. **YouTube Data Harvesting and Warehousing, Key Skills: Python, SQL, Data Visualization**
+- Data Extraction & Integration: Extracted and integrated data from YouTube API using Python. Stored data in MongoDB, then migrated to SQL 
+  for structured querying and reporting.
+- Interactive Data Visualization: Created an interactive Streamlit application for data visualization, enabling enhanced user interaction 
+  and data insights.
+3. **Retail Sales Analysis and Forecasting, Key Skills: Data Preprocessing, Modeling, Evaluation**
+- Sales Forecasting: Achieved 97.7% forecast accuracy for retail sales using ExtraTreesRegressor. Applied statistical methods to refine 
+  forecasting models and improve accuracy.
+- Feature Engineering & Data Analysis: Conducted extensive feature engineering and data preprocessing to enhance model performance, 
+  resulting in a high R² score.
+- Visualization & Reporting:Utilized Matplotlib and Seaborn for visualizing sales trends and forecasting results,supporting strategic 
+  decision-making through clear data representation.
+  
 🌐 Find Me Online
 
 LinkedIn: [www.linkedin.com/in/sri-ram-462610101] 
