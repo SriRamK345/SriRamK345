@@ -14,9 +14,14 @@ Location: Tamil Nadu, India
 
 🔧 Skills
 
-**Programming Languages:** Python, My SQL 
-**Machine Learning:** Linear Regression, Logistic Regression  
-**Tools & Frameworks:** Pandas, Scikit-learn, Jupyter Notebooks 
+- **Programming Languages**: Python (Pandas, NumPy, Scikit-learn)
+- **Data Manipulation and Analysis**: Data cleaning, feature engineering, exploratory data analysis
+- **Statistical Analysis and Modeling**: Regression analysis, statistical tests, time series analysis
+- **Machine Learning**: Supervised and unsupervised learning, model evaluation, hyperparameter tuning
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Power BI
+- **Databases**: MySQL
+- **Tools and Environments**: Jupyter Notebooks, Colab
+- **Soft Skills**: Communication, collaboration, project management
 
 📚 Projects
 
