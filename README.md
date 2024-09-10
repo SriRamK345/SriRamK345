@@ -47,9 +47,9 @@ Location: Tamil Nadu, India
   
 🌐 Find Me Online
 
-LinkedIn: [www.linkedin.com/in/sri-ram-462610101] 
-GitHub: [https://github.com/SriRamK345]  
-Email: [sri369346@gmail.com]
+- LinkedIn: [www.linkedin.com/in/sri-ram-462610101] 
+- GitHub: [https://github.com/SriRamK345]  
+- Email: [sri369346@gmail.com]
 
 📈 Career Goals
 
