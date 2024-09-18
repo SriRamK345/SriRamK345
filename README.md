@@ -53,7 +53,7 @@ Location: Tamil Nadu, India
 
 📈 Career Goals
 
-I am actively seeking roles as a Machine Learning Engineer, driven by my passion to tackle challenges using machine learning and data science. My aim is to contribute meaningfully to advancements in these fields.
+I am actively seeking roles as a Data Scientist/Data Analyst, driven by my passion to tackle challenges using machine learning and data science. My aim is to contribute meaningfully to advancements in these fields.
 
 💬 Let's Connect!
 
