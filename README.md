@@ -18,6 +18,7 @@ Location: Tamil Nadu, India
 - **Data Manipulation and Analysis**: Data cleaning, feature engineering, exploratory data analysis
 - **Statistical Analysis and Modeling**: Regression analysis, statistical tests, time series analysis
 - **Machine Learning**: Supervised and unsupervised learning, model evaluation, hyperparameter tuning
+- **Deep Learning**: ANN, CNN, RNN, NLP
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Power BI
 - **Databases**: MySQL
 - **Tools and Environments**: Jupyter Notebooks, Colab
